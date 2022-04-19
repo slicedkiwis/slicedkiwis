@@ -7,11 +7,14 @@ Hello there,
         steevecastor21@gmail.com
    
    Tech Stack:
+   
       -Languages:
           -Javascript
           -HTML/CSS
+          
       -Frameworks:
           -ReactJs
+          
       -Databases:
         -PostgreSQL
         -MongoDB
